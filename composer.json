@@ -1,12 +1,12 @@
 {
-	"name" : "fileeye/pel",
+	"name" : "kartpick/pel",
 	"type" : "library",
 	"description" : "PHP Exif Library. A library for reading and writing Exif headers in JPEG and TIFF images using PHP.",
 	"keywords" : [
 		"image",
 		"exif"
 	],
-	"homepage" : "https://github.com/FileEye/pel",
+	"homepage" : "https://github.com/kartpick/pel",
 	"authors" : [{
 			"name" : "Lars Olesen",
 			"email" : "lars@intraface.dk",
